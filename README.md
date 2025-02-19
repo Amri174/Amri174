@@ -1,22 +1,19 @@
 
-<div align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190716/gif-dark-blue-lines-technology-sense-glowing-background-image-psd_2835555.jpg!sw800" alt="MasterHead">
-</div>
+<h1 align="center"> Hi there 👋 I'm Amritha</a> </h1>
 
-<h1 align="center">Hi 👋, I'm Amritha</h1>
-<h3 align="center">Tech Enthusiast</h3>
+👨🏻‍💻 Data Analytics | Machine Learning | Web Development  <img src="https://www.pngarts.com/files/3/Technology-Free-PNG-Image.png" min-width="400px" max-width="400px" width="450px" align="right"><br>
+📫 Reach me: <a href="linkedin.com/in/amritha174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="26" /><br>
 
-- 🌱 I’m currently learning **Data Analytics**
-- 📫 How to reach me **amrithas174@gmail.com**
 
-<h3 align="left">Reach me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amritha174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh singh" height="30" width="40" /></a>
-</p>
+### Languages
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
+### Web Development
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="70" src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png"/>  <img height="50" width="60" src="https://www.iexcel-technologies.com/wp-content/uploads/2020/03/django-logo.png"/>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />  <img height="50" width="50" src="https://s.yimg.com/fz/api/res/1.2/Ay4OZlYHAiT6AcSZ_nALWg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MjYw/https://s.yimg.com/zb/imgv1/762e11ef-4b26-35f1-a4ff-3c92260ef57d/t_500x300"/>
+### Tools 
+ <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"/> <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Postman.svg"/> <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg"/> <img height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" /> <img height="50" src="https://www.wkhub.com/wp-content/cache/thumbnails/2018/05/StarUML-560x420-c.png" /> <img height="50" src="https://icon.icepanel.io/Technology/svg/MATLAB.svg" />  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+
+### IDE 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://docs.sublimetext.io/logo.svg"/>  <img height="50" width="50" src="https://pydata.org/wp-content/uploads/2016/07/jupyter-logo-300.png"/>  <img height="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/gitlab-logo.png"/> <img height="50" width="50" src="https://www.themachinelearners.com/wp-content/uploads/2020/05/colab_favicon_256px.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg"/> 
 
