@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋 I'm Amritha</a> </h1>
 
-👨🏻‍💻 Data Analytics | Machine Learning | Web Development  <img src="https://www.pngarts.com/files/3/Technology-Free-PNG-Image.png" min-width="400px" max-width="400px" width="450px" align="right"><br>
+👨🏻‍💻 Data Analytics | Machine Learning | Web Development  <img src="https://www.pngarts.com/files/3/Technology-Free-PNG-Image.png" min-width="350px" max-width="350px" width="350px" align="right"><br>
 📫 Reach me: <a href="linkedin.com/in/amritha174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="26" /><br>
 
 
